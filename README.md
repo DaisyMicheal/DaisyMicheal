@@ -11,7 +11,7 @@ Frameworks & Libraries: React, Flutter,
 Databases:  Firebase, MySQL, 
 Tools: Git, Docker,
 Cloud Platforms: AWS, Google Cloud Platform 
-Other Skills: RESTful APIs,
+Other Skills: RESTful APIs, Wordpress 
 
 📘 Current Projects
 Plug Website: Building a website where users can interact, write blogs, and see posts.
