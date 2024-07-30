@@ -10,8 +10,7 @@ Languages: JavaScript, Dart,
 Frameworks & Libraries: React, Flutter,
 Databases:  Firebase, MySQL, 
 Tools: Git, Docker,
-Cloud Platforms: AWS, Google Cloud Platform 
-Other Skills: RESTful APIs, Wordpress 
+Other Skills:  Wordpress 
 
 📘 Current Projects
 Plug Website: Building a website where users can interact, write blogs, and see posts.
@@ -28,7 +27,7 @@ Twitter: @michealdesire14
 
 🌱 I’m Currently Learning
 Advanced Flutter development 
-Nodejs, React Native 
+Nodejs, React 
 DevOps practices and tools
 
 💬 Let's Connect!
