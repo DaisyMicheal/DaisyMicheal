@@ -1,5 +1,5 @@
 
-👋 Hi there! I'm  Mercy Micheal !
+👋 Hi there! I'm  Daisy Micheal !
 I'm a passionate software developer with a keen interest in building high-quality web and mobile applications.
 I enjoy solving complex problems and creating user-friendly solutions. 
 
